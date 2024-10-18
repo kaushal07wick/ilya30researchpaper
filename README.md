@@ -1,8 +1,9 @@
 Hi, welcome.
 
-I am trying to learn ilya20u20 research papers, by implementing them.
+I am trying to learn ilya30u30 research papers, by implementing them.
 
 [papers list](https://www.lesswrong.com/posts/t4ZBjAjXk2NqqAqJ7/the-27-papers)
+
 [other list](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 
 - [x] The Annotated Transformer
