@@ -7,9 +7,9 @@ I am trying to learn ilya30u30 research papers, by implementing them.
 [other list](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 
 - [x] The Annotated Transformer
-- [ ] The First Law of Complexodynamics
-- [ ] The Unreasonable Effectiveness of RNNs
-- [ ] Understanding LSTM Networks
+- [x] The First Law of Complexodynamics
+- [x] The Unreasonable Effectiveness of RNNs
+- [x] Understanding LSTM Networks
 - [ ] Recurrent Neural Network Regularization
 - [ ] Keeping Neural Networks Simple by Minimizing the Description Length of the Weights
 - [ ] Pointer Networks
